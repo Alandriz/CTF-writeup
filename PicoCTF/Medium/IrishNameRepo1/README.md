@@ -14,6 +14,7 @@ Langkah yang perlu dilakukan:
 2. Di awal page hanya terdapat list list dari artis. Tidak banyak yang bisa lakukan tetapi terdapat SideBar
 ![awal page](https://github.com/user-attachments/assets/a7333195-b896-4b55-ba5c-41a88eddc551)
 
+
 3. Sidebar tersebut di klik, terdapat tab "Close Menu", "Support", "Admin Login".
 ![side bar](https://github.com/user-attachments/assets/52282f35-f400-4b01-a0c2-b48e19066d62)
 
@@ -26,6 +27,8 @@ Langkah yang perlu dilakukan:
 6. Jika sudah terdapat informasi error mengenai sql, maka sudah pasti kelemahan tersebut di bagian pada saat login.
 7. Kembali dan klik "admin login"
 8. terdapat login page username dan password, kita sudah mendapatkan informasi nama adminnya adalah "admin" jadi sekarang kita coba gunakan sql inject yang sederhana menggunakan '--'
+
+
 9. Ketik admin' -- di bagian username dan isi password tersebut dengan apapun
 ![bypass](https://github.com/user-attachments/assets/eb981266-0ea2-40bf-82ee-dda7450ffdba)
 
