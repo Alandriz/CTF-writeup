@@ -16,7 +16,7 @@ Langkah yang perlu dilakukan:
 ![awal page](https://github.com/user-attachments/assets/a7333195-b896-4b55-ba5c-41a88eddc551)
 
 
-3. Sidebar tersebut di klik, terdapat tab "Close Menu", "Support", "Admin Login".
+3. Ketika sidebar tersebut di klik, terdapat tab "Close Menu", "Support", "Admin Login".
 
 ![side bar](https://github.com/user-attachments/assets/52282f35-f400-4b01-a0c2-b48e19066d62)
 
