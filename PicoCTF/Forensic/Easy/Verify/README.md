@@ -31,7 +31,8 @@ Masalah: sha256 hash
 
 6. cara lebih cepatnya adalah dengan **grep**, **grep** itu seperti baris perintah mencari teks string atau pola. Bisa di gabungkan dengan cat atau ls. Tetapi karena kita sudah mengetahui kalau ini setiap dari file ini adalah sha256, ada terdapat seperti syntax untuk cara yang lebih cepat.
 
-![ketemu](https://github.com/user-attachments/assets/5a418940-747e-4bcd-aa00-4a314f3e78d1)
+![ketemuu](https://github.com/user-attachments/assets/d4f1f195-a6ec-4269-9b04-30eccde8f1be)
+
 
 7. kita menemukan kalau file tersebut sama hasilnya checksumnya dengan sha256. Seperti kata yang di deskripsi tadi, kita bisa melakukan ./decrypt.sh <file> untuk melihat teks asli dari hash.
 
