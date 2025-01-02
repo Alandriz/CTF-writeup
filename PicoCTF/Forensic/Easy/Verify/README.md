@@ -1,7 +1,7 @@
 # Judul
 Verify
 
-# Deskripsi
+# Challenge Description
 Author: Jeffery John
 
 People keep trying to trick my players with imitation flags. I want to make sure they get the real thing! I'm going to provide the SHA-256 hash and a decrypt script to help you know that my flags are legitimate. ssh -p 62901 ctf-player@rhea.picoctf.net Using the password f3b61b38. Accept the fingerprint with yes, and ls once connected to begin. Remember, in a shell, passwords are hidden!
