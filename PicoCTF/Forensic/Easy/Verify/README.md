@@ -24,7 +24,8 @@ Masalah: sha256 hash
 
 4. Isi dari file itu adalah hash sha256. Coba kita lihat isi files dengan ls
 
-![files](https://github.com/user-attachments/assets/655b7c07-65b1-4a76-a0a3-16f8bc2f0f68)
+![filess](https://github.com/user-attachments/assets/acb4f843-cb60-4ca8-b152-2f4b9220acef)
+
 
 5. Disini makin jelas kalau kita harus mencari sha256 yang sama seperti di checksum tadi, tapi disini kita tidak mungkin harus mengecek file tersebut satu satu (kalau niat silahkan)
 
