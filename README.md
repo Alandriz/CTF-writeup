@@ -1,2 +1,2 @@
 # CTF-writeup
-Solusi tantangan CTF 
+Solusi tantangan CTF (Masih belum terupload semua)
